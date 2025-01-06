@@ -49,7 +49,7 @@ playwright install chromium
 2. Clone this repository or download the scripts:
 ```bash
 git clone https://github.com/mechanist01/gmail-noiser
-cd email-marketing-analyzer
+cd gmail-noiser
 ```
 
 ### Gmail-Specific Setup
