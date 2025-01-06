@@ -48,7 +48,7 @@ playwright install chromium
 
 2. Clone this repository or download the scripts:
 ```bash
-git clone https://github.com/yourusername/email-marketing-analyzer
+git clone https://github.com/mechanist01/gmail-noiser
 cd email-marketing-analyzer
 ```
 
