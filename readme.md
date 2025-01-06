@@ -68,7 +68,7 @@ If you're using Gmail with 2-Factor Authentication:
 ### 1. Extract Links from Emails
 
 ```bash
-python email_link_extractor.py -e your.email@example.com -p "your-password" -m 6
+python tracker_scanner.py -e your.email@example.com -p "your-password" -m 6
 ```
 
 Options:
@@ -80,7 +80,7 @@ Options:
 ### 2. Simulate Link Interactions
 
 ```bash
-python link_interactor.py latest_domain_tracking_20250106_122135.csv -c 3
+python link_clicker.py latest_domain_tracking_20250106_122135.csv -c 3
 ```
 
 Options:
